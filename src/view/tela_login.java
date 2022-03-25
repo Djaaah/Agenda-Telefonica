@@ -26,8 +26,6 @@ import com.jgoodies.forms.factories.DefaultComponentFactory;
 import java.awt.event.KeyEvent;
 import javax.swing.ButtonGroup;
 import javax.swing.JButton;
-
-
 import uteis.validarInput;
 import javax.swing.JPasswordField;
 import javax.swing.Box;

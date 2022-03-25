@@ -495,7 +495,7 @@ public class tela_principal {
 			}
 		});
 		btn_adc_contato.setToolTipText("Novo Contato");
-		btn_adc_contato.setIcon(new ImageIcon("D:\\Programa\u00E7\u00E3o\\Java\\BD - Java\\icones\\adicionar-contato.png"));
+		btn_adc_contato.setIcon(new ImageIcon("D:\\Programa\u00E7\u00E3o\\Java\\Agenda-Telefonica\\icones\\adicionar-contato.png"));
 		menuPrincipal.add(btn_adc_contato);
 		
 		Component horizontalStrut = Box.createHorizontalStrut(20);
@@ -514,7 +514,7 @@ public class tela_principal {
 				}
 			}
 		});
-		btn_edit_contato.setIcon(new ImageIcon("D:\\Programa\u00E7\u00E3o\\Java\\BD - Java\\icones\\forma.png"));
+		btn_edit_contato.setIcon(new ImageIcon("D:\\Programa\u00E7\u00E3o\\Java\\Agenda-Telefonica\\icones\\forma.png"));
 		btn_edit_contato.setToolTipText("Editar Contato");
 		menuPrincipal.add(btn_edit_contato);
 		
@@ -534,7 +534,7 @@ public class tela_principal {
 				}
 			}
 		});
-		btn_contatos_salvos.setIcon(new ImageIcon("D:\\Programa\u00E7\u00E3o\\Java\\BD - Java\\icones\\agenda.png"));
+		btn_contatos_salvos.setIcon(new ImageIcon("D:\\Programa\u00E7\u00E3o\\Java\\Agenda-Telefonica\\icones\\agenda.png"));
 		btn_contatos_salvos.setToolTipText("Contatos Salvos");
 		menuPrincipal.add(btn_contatos_salvos);
 		
@@ -554,7 +554,7 @@ public class tela_principal {
 				}
 			}
 		});
-		btn_del_contato.setIcon(new ImageIcon("D:\\Programa\u00E7\u00E3o\\Java\\BD - Java\\icones\\ligar.png"));
+		btn_del_contato.setIcon(new ImageIcon("D:\\Programa\u00E7\u00E3o\\Java\\Agenda-Telefonica\\icones\\ligar.png"));
 		btn_del_contato.setToolTipText("Excluir Contatos");
 		menuPrincipal.add(btn_del_contato);
 		
